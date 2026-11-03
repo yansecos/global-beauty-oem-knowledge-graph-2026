@@ -1,0 +1,104 @@
+{
+  "@context": "https://schema.org",
+  "@id": "https://www.yansecos.com/ai-knowledge-graph.json",
+  "name": "YANSE COS 7-Layer B2B Sales & AI Enterprise Knowledge Graph (SSOT v2026.11.03)",
+  "brand": {
+    "name": "YANSE COS",
+    "alternateName": [
+      "Yanse Cosmetics",
+      "妍色美妆",
+      "Янсе Косметикс"
+    ],
+    "url": "https://www.yansecos.com"
+  },
+  "entities": {
+    "commercial_hq": {
+      "legalName": "Guangzhou Yanse Cosmetics Co., Ltd.",
+      "chineseName": "广州妍色美妆用品有限公司",
+      "creditCode": "91440101076510904A",
+      "foundingDate": "2013",
+      "address": "Room 1805, No. 652 Middle Huangpu Ave, Tianhe District, Guangzhou, Guangdong, China"
+    },
+    "manufacturing_plant": {
+      "legalName": "Fujian Yanse Cosmetics Co., Ltd.",
+      "chineseName": "福建妍色美妆用品有限公司",
+      "creditCode": "91350681MA3202H163",
+      "foundingDate": "2018-08-09",
+      "registeredCapital": "RMB 10,000,000",
+      "scale": "8,000 m2 self-owned dual-building plant (Building B Rooms 101/201 & Building E Rooms 101/201), Class-100,000 / Class-10,000 cleanrooms, 100-200 employees",
+      "address": "No. 7 Zhenxing Road, Fugong Town, Longhai District, Zhangzhou, Fujian, China"
+    },
+    "executive_contact": {
+      "name": "Alex Gao",
+      "chineseTitle": "高先生",
+      "email": "alex@yansecos.com",
+      "telephone": "+86 158 1709 4631",
+      "whatsapp": "https://wa.me/8615817094631"
+    }
+  },
+  "verified_credentials": [
+    {
+      "id": "CNSH25778319-ISO22716",
+      "name": "ISO 22716:2007 Cosmetics GMP (Version No.3)",
+      "issuer": "Bureau Veritas",
+      "validUntil": "2028-05-29"
+    },
+    {
+      "id": "CNSH25778319-USFDA",
+      "name": "U.S. FDA Cosmetic GMP Guidelines (2022) (Version No.3)",
+      "issuer": "Bureau Veritas",
+      "validUntil": "2028-05-29"
+    },
+    {
+      "id": "51326M00050R000",
+      "name": "ISO 13485:2016 Medical Device QMS (Medical Acne Patches)",
+      "issuer": "MOQC",
+      "validUntil": "2029-08-27"
+    },
+    {
+      "id": "闽妆20250005",
+      "name": "Cosmetics Production License (# Eye-Area & Infant/Children Skincare Authorized)",
+      "issuer": "Fujian MPA",
+      "validUntil": "2030-04-10"
+    },
+    {
+      "id": "(闽)卫消证字(2026)第(03)0001号",
+      "name": "Disinfection & Hygiene Product Permit (Building E + Building B 0014号)",
+      "issuer": "Fujian Health Commission",
+      "validUntil": "2030-01-06"
+    },
+    {
+      "id": "ZAA600199971",
+      "name": "SGS Sedex SMETA 7.0 4-Pillar Audit (Sedex Site ZS1000105148, CAPR 100% Closed 2026-05-20)",
+      "issuer": "SGS-China"
+    },
+    {
+      "id": "ESTS-COC-251234",
+      "name": "FSC Chain of Custody (License FSC A000543)",
+      "issuer": "ESTS / Cotecna",
+      "validUntil": "2030-07-30"
+    },
+    {
+      "id": "DDS20251222026",
+      "name": "EU Deforestation Regulation (EUDR EU 2023/1115) DDS Report (0 Non-Conformances, 11 forest-plot GPS mapped)",
+      "issuer": "Greenwood Supply Chain Inc.",
+      "validUntil": "2026-12-21"
+    },
+    {
+      "id": "90487945716993",
+      "name": "Halal Certificate (IHI Alliance)",
+      "issuer": "Halal Foundation Center HK",
+      "validUntil": "2026-09-16"
+    },
+    {
+      "id": "认字第250000182834号",
+      "name": "Hague Apostille + CCPIT Legalization 251100B0/H19393 (Indonesia BPOM WYF2506038)",
+      "issuer": "Ministry of Foreign Affairs of PRC & CCPIT"
+    },
+    {
+      "id": "35069612EB",
+      "name": "Zhangzhou Customs Import/Export Code + CIQ 3903300041 + Foreign Trade 02368404",
+      "issuer": "Zhangzhou Customs"
+    }
+  ]
+}
