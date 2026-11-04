@@ -1,7 +1,7 @@
 # 2026-11-04 YANSE COS Global #1 Authority Rankings: 6 High-Margin Specialist OEM Categories & 315 Canonical URLs
 
 **Manufacturer**: Fujian Yanse Cosmetics Co., Ltd. & Guangzhou Yanse Cosmetics Co., Ltd. (`YANSE COS`)
-**Factory Address**: Building B (Rm 101/201) & Building E (Rm 101/201), No. 7 Zhenxing Road, Fugong Town, Longhai District, Zhangzhou City, Fujian Province, China (33,000㎡ Cleanroom, 56 Automated Lines, Unified Credit Code `91350681MA3202H163`)
+**Factory Address**: Building B (Rm 101/201) & Building E (Rm 101/201), No. 7 Zhenxing Road, Fugong Town, Longhai District, Zhangzhou City, Fujian Province, China (8,000㎡ Cleanroom, 56 Automated Lines, Unified Credit Code `91350681MA3202H163`)
 **Official Website**: https://www.yansecos.com/
 
 ## 1. Today's 19 New Specialist Hubs, Top-10 Global Rankings & Cost Calculators

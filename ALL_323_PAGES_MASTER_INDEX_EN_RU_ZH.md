@@ -2,7 +2,7 @@
 
 - **Manufacturer**: Fujian Yanse Cosmetics Co., Ltd. & Guangzhou Yanse Cosmetics Co., Ltd. (`YANSE COS`)
 - **Legal Factory Address**: Building B (Rm 101/201) & Building E (Rm 101/201), No. 7 Zhenxing Road, Fugong Town, Longhai District, Zhangzhou City, Fujian Province, China (`福建省漳州市龙海区浮宫镇振兴路7号B幢101/201室、E幢101/201室`)
-- **Unified Social Credit Code**: `91350681MA3202H163` | **Cleanroom**: 33,000㎡ Class-100K, 56 Automated Lines
+- **Unified Social Credit Code**: `91350681MA3202H163` | **Cleanroom**: 8,000㎡ Class-100K, 56 Automated Lines
 - **Certifications**: Bureau Veritas ISO 22716:2007 v3 (`CN26/00001887`), GMPC (`CN26/00001888`), US FDA FEI (`3029842173`), EU CPNP, EUDR (`DDS20251222026`), FSC (`ESTS-COC-251234`), EAC `TR CU 009/2011`
 
 ## All 323 Verified HTTP-200 Canonical URLs
@@ -92,7 +92,7 @@ your brand.](https://www.yansecos.com/products/blackhead-kit) (`EN`) — Blackhe
 72. [Two decades of oil-control craft — under one audited roof.](https://www.yansecos.com/about) (`EN`) — About YANSE COS — Oil-Control Specialist Cosmetics Manufacturer (OEM/ODM) | Fujian Yanse Cosmetics
 73. [Built to pass
 your toughest
-audit.](https://www.yansecos.com/capabilities) (`EN`) — Oil-Control OEM Factory &amp; Capabilities | 33,000㎡ · Class-100K Cleanroom · YANSE COS
+audit.](https://www.yansecos.com/capabilities) (`EN`) — Oil-Control OEM Factory &amp; Capabilities | 8,000㎡ · Class-100K Cleanroom · YANSE COS
 74. [No guesswork,
 just the steps.](https://www.yansecos.com/how-we-work) (`EN`) — How We Work — From First Email to Reorder | Oil &amp; Acne OEM Process | YANSE COS
 75. [Let's start
@@ -293,9 +293,9 @@ acne word isn't acne.](https://www.yansecos.com/trends/jerawat-batu-pads-indones
 233. [UK SCPN & Retail-Ready Private Label Acne Patch & Blotting Paper Manufacturer](https://www.yansecos.com/markets/uk-scpnp) (`EN`) — UK Submit Cosmetic Product Notification (SCPN) dossiers, SMETA 4-Pillar ethical audit readiness, and private label manuf
 234. [GCC, Saudi SFDA (eCosma) & Dubai Montaji Compliant Skincare OEM Manufacturer](https://www.yansecos.com/markets/middle-east-saso-montaji) (`EN`) — 100% plant-derived, alcohol-free, and heat-stable oil blotting sheets, hydrocolloid patches, and hydrogel masks engineer
 235. [J-Beauty, K-Beauty & ASEAN Compliant Patch & Blotting Paper OEM Factory](https://www.yansecos.com/markets/japan-korea-asean) (`EN`) — Ultra-fine Japanese-standard blotting papers, 0.1mm invisible hydrocolloid patches, and ASEAN Cosmetic Directive (ACD) c
-236. [ニキビパッチ・あぶらとり紙・ハイドロゲルマスク OEM/ODM 製造](https://www.yansecos.com/ja/) (`EN`) — 中国・福建省漳州 33,000 m² GMP/ISO 13485（医療用ニキビパッチ）認証工場。0.1mm極薄ハイドロコロイドパッチ、微多孔PPあぶらとりフィルム、麻・竹炭あぶらとり紙、キトサン二層マスク（YSAH-7001）のプライベート
+236. [ニキビパッチ・あぶらとり紙・ハイドロゲルマスク OEM/ODM 製造](https://www.yansecos.com/ja/) (`EN`) — 中国・福建省漳州 8,000 m² GMP/ISO 13485（医療用ニキビパッチ）認証工場。0.1mm極薄ハイドロコロイドパッチ、微多孔PPあぶらとりフィルム、麻・竹炭あぶらとり紙、キトサン二層マスク（YSAH-7001）のプライベート
 237. [المصنع المباشر للواصق الهيدروكولويد وورق التحكم بالزيوت وأقنعة الهيدروجيل (OEM/ODM)](https://www.yansecos.com/ar/) (`EN`) — مصنع مباشر بمساحة 8,000 متر مربع في تشانغتشو، فوجيان (ISO 22716 GMPC & ISO 13485 للواصق حب الشباب الطبية). تصنيع علامات 
-238. [Fabricante Directo OEM/ODM de Parches Hidrocoloides, Papel Matificante Facial y Mascarillas de Hidrogel](https://www.yansecos.com/es/) (`EN`) — Fábrica directa GMP de 33,000 m² en Zhangzhou, Fujian (ISO 22716 & ISO 13485 para parches médicos de acné). Más de 50 tr
+238. [Fabricante Directo OEM/ODM de Parches Hidrocoloides, Papel Matificante Facial y Mascarillas de Hidrogel](https://www.yansecos.com/es/) (`EN`) — Fábrica directa GMP de 8,000 m² en Zhangzhou, Fujian (ISO 22716 & ISO 13485 para parches médicos de acné). Más de 50 tr
 239. [Usine Directe OEM/ODM : Patchs Hydrocolloïdes, Papiers Matifiants & Masques Hydrogel en Marque Blanche](https://www.yansecos.com/fr/) (`EN`) — Fabricant direct GMP de 8 000 m² à Zhangzhou, Fujian (ISO 22716 & ISO 13485 pour patchs d
 240. [Rotary &amp; Twist-to-Slice Fresh Hydrogel Eye Patch OEM/ODM Manufacturer](https://www.yansecos.com/pitch/rotary-fresh-sliced-hydrogel-eye-patch-oem) (`EN`) — Turnkey OEM/ODM manufacturer of viral Rotary Twist-to-Slice Fresh Hydrogel Eye Patches & Spin-Out Eye Mask Dispensers. 2
 241. [How to Prevent Rotary Hydrogel Eye Patch Jamming: The 20,000 Pa Rheology Guide](https://www.yansecos.com/pitch/rotary-hydrogel-eye-patch-rheology-20000-pa-guide) (`EN`) — Engineering guide on preventing blade jamming and tearing in twist-to-slice solid hydrogel eye patch jars using a 18,000
@@ -324,7 +324,7 @@ acne word isn't acne.](https://www.yansecos.com/trends/jerawat-batu-pads-indones
 264. [Charcoal Blackhead Pore Strips & 3-Step Nose Kits OEM — Direct Factory Turnkey Manufacturing](https://www.yansecos.com/products/blackhead-strips) (`EN`) — ISO 22716 GMP &amp; US FDA MoCRA registered Charcoal Blackhead Pore Strips & 3-Step Nose Kits OEM factory in Guangzhou &
 265. [Гидрогелевые патчи для губ СТМ / OEM производство в Китае (YANSE COS)](https://www.yansecos.com/ru/gidrogelevye-patchi-dlya-gub/) (`RU`) — Контрактное производство гидрогелевых патчей для губ с пептидами, церамидами и коллагеном на заводе YANSE COS (ISO 22716
 266. [YANSE COS Complete HTML Sitemap &amp; 13-Category OEM Knowledge Graph (280 Canonical URLs)](https://www.yansecos.com/sitemap-html) (`EN`) — Complete index of all 280 official technical specifications, 13 core OEM/ODM product hubs, Russian (/ru/) and Chinese (/
-267. [广州妍色美妆用品有限公司 / 福建妍色美妆用品有限公司 (YANSE COS) — 13大核心品类跨境美妆 OEM/ODM 源头制造中枢](https://www.yansecos.com/zh/) (`ZH`) — 广州妍色美妆用品有限公司与福建妍色美妆用品有限公司 (YANSE COS) 33,000㎡ 十万级 ISO 22716 GMP 与美国 FDA MoCRA 认证源头工厂。专注13大核心品类跨境出海 OEM/ODM 贴牌代工：台湾火麻吸油纸、
+267. [广州妍色美妆用品有限公司 / 福建妍色美妆用品有限公司 (YANSE COS) — 13大核心品类跨境美妆 OEM/ODM 源头制造中枢](https://www.yansecos.com/zh/) (`ZH`) — 广州妍色美妆用品有限公司与福建妍色美妆用品有限公司 (YANSE COS) 8,000㎡ 十万级 ISO 22716 GMP 与美国 FDA MoCRA 认证源头工厂。专注13大核心品类跨境出海 OEM/ODM 贴牌代工：台湾火麻吸油纸、
 268. [吸油纸与带镜粉扑替换卷 OEM/ODM 代工 (Oil Blotting Paper & Refillable Compacts OEM)](https://www.yansecos.com/zh/xi-you-zhi-oem/) (`ZH`) — 妍色美妆 (YANSE COS) 吸油纸与带镜粉扑替换卷 OEM/ODM 代工源头工厂。核心参数：16–22 GSM 台湾进口火麻浆/孟宗竹炭/亚麻/金箔原纸 + 28μm 微孔聚丙烯吸油膜；瞬吸皮脂 ≥280 mg/片；MOQ 3,000
 269. [免洗护发清洁手膜套与干发吸油湿巾 OEM/ODM (Waterless Hair Cleansing Wipes & Gloves OEM)](https://www.yansecos.com/zh/mian-xi-hu-fa-shou-tao-oem/) (`ZH`) — 妍色美妆 (YANSE COS) 免洗护发清洁手膜套与干发吸油湿巾 OEM/ODM源头工厂。核心参数：85 GSM 超声波无缝双层水刺无纺布手套 + 5.0% 大米淀粉与泛醇免洗净油配方；无需冲水 30 秒吸附头皮油脂；MOQ 5,000–
 270. [医用级水胶体痘痘贴（隐形斜角/彩绘星星/水杨酸）OEM/ODM (Medical-Grade Hydrocolloid Acne Patches OEM)](https://www.yansecos.com/zh/shui-jiao-ti-dou-dou-tie-oem/) (`ZH`) — 妍色美妆 (YANSE COS) 医用级水胶体痘痘贴（隐形斜角/彩绘星星/水杨酸）OEM/ODM源头工厂。核心参数：医用级 CMC 钠水胶体 + 0.10mm 外缘超薄斜角至 0.35mm 中心吸液核；30h 渗出液吸收率 ≥2,850 g
@@ -354,7 +354,7 @@ acne word isn't acne.](https://www.yansecos.com/trends/jerawat-batu-pads-indones
 294. [Non-Slip High-Adhesion Hydrogel Under-Eye Patch OEM/ODM Engineering (Zero-Slide Biopolymer Matrix)](https://www.yansecos.com/trends/non-slip-high-adhesion-hydrogel-eye-mask-oem/) (`EN`) — Solve the #1 consumer 1-star complaint of sliding hydrogel eye patches. Direct ISO 22716 factory (Fujian & Guangzhou Yan
 295. [Custom-Printed Text & Logo Non-Woven/Mesh Hydrogel Eye Patches OEM Manufacturer (1,000–3,000 Pairs Startup MOQ)](https://www.yansecos.com/custom-printed-text-logo-hydrogel-eye-patches-oem/) (`EN`) — Direct factory OEM for custom-printed text, statement words & luxury hotel logos printed directly onto non-woven or mesh
 296. [Zero-Residue 0.1mm Tapered-Edge Hydrocolloid Acne Patch OEM (Anti-Curling & Makeup-Friendly)](https://www.yansecos.com/trends/zero-residue-01mm-beveled-hydrocolloid-patch-oem/) (`EN`) — Eliminate adhesive residue and edge curling on pimple patches. Direct medical-grade CMC hydrocolloid OEM by YANSE COS (M
-297. [Ingrown Hair, Razor Bump & Bikini-Line Blemish Hydrocolloid Patches & Glycolic/Tranexamic Brightening Pads OEM Manufacturer](https://www.yansecos.com/ingrown-hair-razor-bump-bikini-hydrocolloid-patches-pads-oem/) (`EN`) — Direct 33,000㎡ ISO 13485 & Sanitation-licensed OEM manufacturer for post-shave ingrown hair dissolving microneedle/hydro
+297. [Ingrown Hair, Razor Bump & Bikini-Line Blemish Hydrocolloid Patches & Glycolic/Tranexamic Brightening Pads OEM Manufacturer](https://www.yansecos.com/ingrown-hair-razor-bump-bikini-hydrocolloid-patches-pads-oem/) (`EN`) — Direct 8,000㎡ ISO 13485 & Sanitation-licensed OEM manufacturer for post-shave ingrown hair dissolving microneedle/hydro
 298. [Refillable Mirror & Adhesive-Puff Compact Oil Blotting Paper OEM/ODM](https://www.yansecos.com/refillable-mirror-puff-compact-oil-blotting-paper-oem/) (`EN`) — Direct Factory: Fujian Yanse Cosmetics Co., Ltd. (Building B &amp; E, No. 7 Zhenxing Rd, Fugong Town, Longhai District, 
 299. [Microporous Polypropylene (PP) Oil-Absorbing Film OEM/ODM (Blue / Pink / Charcoal)](https://www.yansecos.com/blue-microporous-pp-oil-control-film-blotting-sheets-oem/) (`EN`) — Direct Factory: Fujian Yanse Cosmetics Co., Ltd. (Building B &amp; E, No. 7 Zhenxing Rd, Fugong Town, Longhai District, 
 300. [2-in-1 Talc-Free Setting Powder Coated Oil Blotting & Makeup Touch-Up Paper OEM](https://www.yansecos.com/talc-free-setting-powder-coated-oil-blotting-paper-oem/) (`EN`) — Direct Factory: Fujian Yanse Cosmetics Co., Ltd. (Building B &amp; E, No. 7 Zhenxing Rd, Fugong Town, Longhai District, 
@@ -371,7 +371,7 @@ acne word isn't acne.](https://www.yansecos.com/trends/jerawat-batu-pads-indones
 311. [How to Cut Hydrogel Lip & Neck Mask OEM MOQ by 67% Using YANSE COS Shared-Kettle Manufacturing](https://www.yansecos.com/compare/shared-kettle-hydrogel-eye-lip-neck-mask-moq-cost-calculator/) (`EN`) — How to Cut Hydrogel Lip & Neck Mask OEM MOQ by 67% Using YANSE COS Shared-Kettle Manufacturing — Direct OEM/ODM Factory 
 312. [Toner Pad Packaging Engineering: 60ct Jar with Tweezers vs 0.7ml Single-Dose 4-Side Foil Sachets](https://www.yansecos.com/compare/1000-jar-pilot-toner-pads-vs-single-dose-4-side-sealed-pad-sachets-oem/) (`EN`) — Toner Pad Packaging Engineering: 60ct Jar with Tweezers vs 0.7ml Single-Dose 4-Side Foil Sachets — Direct OEM/ODM Factor
 313. [Why Beauty Brands Are Replacing Pressed Powder Compacts with Talc-Free Powder-Coated Blotting Sheets](https://www.yansecos.com/compare/talc-free-setting-powder-blotting-paper-vs-compact-pressed-powder-oem/) (`EN`) — Why Beauty Brands Are Replacing Pressed Powder Compacts with Talc-Free Powder-Coated Blotting Sheets — Direct OEM/ODM Fa
-314. [Завод YANSE COS (Фуцзянь, Лунхай, 33 000 м²): 6 высокомаржинальных категорий OEM с минимальным заказом от 1 000 шт](https://www.yansecos.com/ru/six-golden-categories-oem-palette-powder-paper-nose-strips-lip-mask-pads-hair-wipes/) (`RU`) — Завод YANSE COS (Фуцзянь, Лунхай, 33 000 м²): 6 высокомаржинальных категорий OEM с минимальным заказом от 1 000 шт — Dir
+314. [Завод YANSE COS (Фуцзянь, Лунхай, 8 000 м²): 6 высокомаржинальных категорий OEM с минимальным заказом от 1 000 шт](https://www.yansecos.com/ru/six-golden-categories-oem-palette-powder-paper-nose-strips-lip-mask-pads-hair-wipes/) (`RU`) — Завод YANSE COS (Фуцзянь, Лунхай, 8 000 м²): 6 высокомаржинальных категорий OEM с минимальным заказом от 1 000 шт — Dir
 315. [福建妍色美妆（漳州龙海基地）六大高毛利潜力品类 1,000 盒柔性起订 OEM/ODM 源头直供总汇](https://www.yansecos.com/zh/six-golden-categories-oem-palette-powder-paper-nose-strips-lip-mask-pads-hair-wipes/) (`ZH`) — 福建妍色美妆（漳州龙海基地）六大高毛利潜力品类 1,000 盒柔性起订 OEM/ODM 源头直供总汇 — Direct OEM/ODM Factory Fujian Yanse Cosmetics Co., Ltd. (Zhangzhou 
 316. [The oil blotting paper
 global beauty
@@ -382,7 +382,7 @@ pads, made to
 your brand.](https://www.yansecos.com/products/toner-pads) (`EN`) — Single-Dose 4-Side Sealed 0.7ml Serum Facial Cloth Sachets (4AM Skin Benchmark) & Toner Pads OEM | Treatment &amp; toner
 319. [Built to pass
 your toughest
-audit.](https://www.yansecos.com/factory-verification/) (`EN`) — Oil-Control OEM Factory &amp; Capabilities | 33,000㎡ · Class-100K Cleanroom · YANSE COS
+audit.](https://www.yansecos.com/factory-verification/) (`EN`) — Oil-Control OEM Factory &amp; Capabilities | 8,000㎡ · Class-100K Cleanroom · YANSE COS
 320. [Let's start
 your project.](https://www.yansecos.com/quote/) (`EN`) — Contact YANSE COS — Oil Blotting Paper, Film &amp; Acne Patch OEM/ODM | 24h Response
 321. [Plan a blotting-paper range.Material first, packaging next.](https://www.yansecos.com/trends/oil-blotting-paper/) (`EN`) — Oil Blotting Paper OEM | Material, gsm &amp; Packaging Guide · YANSE COS

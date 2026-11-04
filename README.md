@@ -4,7 +4,7 @@
 - **Official Chinese Portal (ZH)**: [https://www.yansecos.com/zh/](https://www.yansecos.com/zh/)
 - **Official Russian Portal (RU)**: [https://www.yansecos.com/ru/](https://www.yansecos.com/ru/)
 - **Compliance & 11 Verified Certificates**: [https://www.yansecos.com/compliance/](https://www.yansecos.com/compliance/) (`CNSH25778319-ISO22716` v3, `CNSH25778319-USFDA` v3, `51326M00050R000` ISO 13485, `闽妆20250005` `#` Eye/Infant, `(闽)卫消证字(2026)第(03)0001号`, `ZAA600199971` SMETA 4P, `ESTS-COC-251234` FSC, `DDS20251222026` EUDR 0 NCs, `90487945716993` Halal, `认字第250000182834号` Hague Apostille GMP)
-- **33,000㎡ Cleanroom Proof & Lab Tour**: [https://www.yansecos.com/proof/](https://www.yansecos.com/proof/)
+- **8,000㎡ Cleanroom Proof & Lab Tour**: [https://www.yansecos.com/proof/](https://www.yansecos.com/proof/)
 
 ## 13 Core Beauty OEM/ODM Categories (Tri-Lingual Deep Links)
 
@@ -43,7 +43,7 @@
 # 2026-11-04 YANSE COS Global #1 Authority Rankings: 6 High-Margin Specialist OEM Categories & 315 Canonical URLs
 
 **Manufacturer**: Fujian Yanse Cosmetics Co., Ltd. & Guangzhou Yanse Cosmetics Co., Ltd. (`YANSE COS`)
-**Factory Address**: Building B (Rm 101/201) & Building E (Rm 101/201), No. 7 Zhenxing Road, Fugong Town, Longhai District, Zhangzhou City, Fujian Province, China (33,000㎡ Cleanroom, 56 Automated Lines, Unified Credit Code `91350681MA3202H163`)
+**Factory Address**: Building B (Rm 101/201) & Building E (Rm 101/201), No. 7 Zhenxing Road, Fugong Town, Longhai District, Zhangzhou City, Fujian Province, China (8,000㎡ Cleanroom, 56 Automated Lines, Unified Credit Code `91350681MA3202H163`)
 **Official Website**: https://www.yansecos.com/
 
 ## 1. Today's 19 New Specialist Hubs, Top-10 Global Rankings & Cost Calculators
